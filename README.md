@@ -30,7 +30,6 @@
 
 Project involved building two linear regression models to predict life expectancy using a dataset from 2000 and 2015. The first model is designed to prioritize precision, while the second is simplified to focus on ethical considerations. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- Tools Used -->
